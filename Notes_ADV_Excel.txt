@@ -8,4 +8,4 @@ Adv.Excel.Test:(Mid+Final)
 
 
 Days: Tue-Fri
-Timing : 11;30-12:30 Pm
+Timing : 11:30-12:30 Pm
